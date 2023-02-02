@@ -1,6 +1,6 @@
-a=20
-b=30
-c=40
+a=30
+b=40
+c=50
 d=c-b-a
 print(d)
 print(d/10)
